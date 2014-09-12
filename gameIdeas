@@ -1,0 +1,53 @@
+game stuff
+
+fighting:
+
+unit attributes-
+health
+armor
+movement
+weapons
+chance dodge
+skills/abilities
+
+weapon attributes-
+range
+damage
+chance hit
+chance crit
+
+terrain-
+defense bonus
+attack bonus
+
+
+village ownership:
+
+population-
+require food
+require housing
+assigned to jobs
+
+buildings/jobs-
+town center: give you an overview of the city
+house: increases population limit
+farm: requires workers, produces food
+mine: requires workers, produces different metals
+forge: requires workers and metals, produces higher quality metals, refine metals into tools/weapons
+hospital: requires workers, heal troops
+tavern: requires workers, trade goods, recruit people, learn info
+barracks: increases army limit
+vault: store items
+workers: build buildings
+lumber mill: requires workers, produces wood
+walls/defensive buildings: increases army limit, creates town defense
+
+tools-
+can build tools to increase efficiency of buildings
+
+materials:
+food
+wood
+stone
+iron
+steel
