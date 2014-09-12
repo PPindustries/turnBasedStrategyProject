@@ -28,22 +28,24 @@ require food
 require housing
 assigned to jobs
 
-buildings/jobs-
-town center: give you an overview of the city
+buildings/jobs (levels of buildings to increase efficiency)-
+town center: give you an overview of the city (maybe use a stat bar instead)
 house: increases population limit
 farm: requires workers, produces food
 mine: requires workers, produces different metals
+lumber mill: requires workers, produces wood
 forge: requires workers and metals, produces higher quality metals, refine metals into tools/weapons
 hospital: requires workers, heal troops
 tavern: requires workers, trade goods, recruit people, learn info
 barracks: increases army limit
 vault: store items
+library: show upgrades from learning things through books(need certain books to learn how to do things)
 workers: build buildings
-lumber mill: requires workers, produces wood
+
 walls/defensive buildings: increases army limit, creates town defense
 
 tools-
-can build tools to increase efficiency of buildings
+can build tools to increase efficiency of buildings (like science in civilization)
 
 materials:
 food
