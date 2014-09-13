@@ -1,6 +1,11 @@
 fields:
-private terrain[][] map;
+public terrain[][] map;
 
-constructors:
+constructor:
+public maps(vector2 size)
+{
+map = new terrain[size.X][size.Y];
+
+}
 
 methods:
