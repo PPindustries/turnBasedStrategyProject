@@ -1,0 +1,16 @@
+each unit has variable health, armor, movement, attack range, attack damage
+
+terrain affects fighting through different terrain types, time of day, hiding in certain terrain, each unit has different movement through different types of terrain, fog of war
+ex. archer does less damage at night, units can’t be seen in houses unless enemy unit next to them, heavily armored units move less on hills
+
+attack damage is attack damage-armor with terrain modifiers
+defender can counterattack if in range
+
+units come back to life after the fight is over
+each unit type has the exact same stats
+
+pros:
+highlights the map
+
+cons:
+requires lots of interaction between map and units

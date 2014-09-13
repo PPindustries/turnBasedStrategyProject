@@ -1,0 +1,16 @@
+each unit has variable health, armor, movement, attack range, attack damage, chance dodge, chance crit
+terrain bonuses affect defense and attack
+
+attack damage is attack damage*health modifier-armor
+dice roll to determine if hit crits and does extra damage
+dice roll to determine if dodge happens
+defender can counterattack if in range
+
+units come back to life after the fight is over
+each unit type has the exact same stats
+
+pros:
+adds in luck element to fighting
+
+cons:
+still not much strategy

@@ -1,0 +1,14 @@
+each unit has variable health, armor, movement, attack range, attack damage
+unit has slots for different types of weapons and armor(boots, gloves,chest, head)
+
+attack damage is attack damage-armor
+defender can counterattack if in range
+
+units come back to life after the fight is over
+each unit type has same base stats
+
+pros:
+makes each unit different
+
+cons:
+sometimes gets annoying to manage armor
