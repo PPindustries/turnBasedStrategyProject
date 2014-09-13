@@ -3,23 +3,28 @@ game stuff
 fighting:
 
 unit attributes-
-health
+health  //health and aromor can be merged
 armor
 movement
 weapons
-chance dodge
+chance dodge //chance dodge should be an ability
 skills/abilities
 
 weapon attributes-
 range
 damage
-chance hit
 chance crit
 
 terrain-
 defense bonus
 attack bonus
 
+mountains
+plains
+desert
+buildings
+forest
+roads
 
 village ownership:
 
@@ -39,7 +44,7 @@ hospital: requires workers, heal troops
 tavern: requires workers, trade goods, recruit people, learn info
 barracks: increases army limit
 vault: store items
-library: show upgrades from learning things through books(need certain books to learn how to do things)
+library: show upgrades from learning things through books(need certain books to learn how to do things)-any upgrade shouldn't change the time period
 workers: build buildings
 
 walls/defensive buildings: increases army limit, creates town defense
