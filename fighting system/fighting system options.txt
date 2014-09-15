@@ -1,0 +1,35 @@
+what elements do you guys want in our game?
+
+
+basic:
+each unit has variable health, armor, movement, attack range, attack damage
+
+attack damage is attack damage-armor
+defender can counterattack if in range
+
+units come back to life after the fight is over
+each unit type has the exact same stats
+
+
+luck:
+add each unit chance dodge, chance crit
+
+dice roll to determine if hit crits and does extra damage
+dice roll to determine if dodge happens
+
+
+equipment:
+unit has slots for different types of weapons and armor(boots, gloves,chest, head)
+
+
+terrain:
+terrain affects fighting through different terrain types, time of day, hiding in certain terrain, each unit has different movement through different types of terrain, fog of war
+ex. archer does less damage at night, units can’t be seen in houses unless enemy unit next to them, heavily armored units move less on hills
+
+
+levels:
+unit gain experience from fighting and killing enemies
+goes into leveling up units to make them stronger
+each level requires more experience and eventually yields very minimal rewards
+
+when unit dies it dead
