@@ -1,1 +1,3 @@
-I’m thinking the best way to do fighting is to make a drawable game object that we create whenever a battle is taking place. it will take in all the data and show the player an estimation of the damage that’s going to be done. then the player can decide to attack or not and the object will do the fight
+I’m thinking the best way to do fighting is to make a drawable game object that we create whenever a battle is taking place. 
+It will take in all the data and show the player an estimation of the damage that’s going to be done. 
+Then the player can decide to attack or not and the object will do the fight
