@@ -8,4 +8,9 @@ map = new terrain[size.X][size.Y];
 
 }
 
+public maps(text file)
+{
+use text file to construct map
+}
+
 methods:

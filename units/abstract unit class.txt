@@ -2,4 +2,9 @@ fields:
 
 constructors:
 
+public unit(text file)
+{
+use text file to construct unit
+}
+
 methods:

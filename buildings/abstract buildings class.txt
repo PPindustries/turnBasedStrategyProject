@@ -2,4 +2,9 @@ fields:
 
 constructors:
 
+public building(text file)
+{
+use text file to construct building
+}
+
 methods:
