@@ -1,0 +1,19 @@
+feilds{
+
+public String type;
+public int diffuclutlyOfTravel;
+
+constructor(String type)
+{
+if(type == "plains"){
+diffuclutlyOfTravel = 1;
+}else if(type == "mountains"){
+diffuclutlyOfTravel = 3;
+}
+
+}
+
+methods{
+
+
+}
