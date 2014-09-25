@@ -1,0 +1,11 @@
+fields{
+public String[] terrainType = {"plains", "mountains", "buildings", "roads", "forest"};
+}
+
+constructor(String type){
+
+}
+
+methods(){
+
+}
