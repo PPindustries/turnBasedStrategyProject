@@ -1,9 +1,15 @@
 fields:
+int health;
+int attack;
+int range;
+int mobility;
 
 constructors:
 
-public unit(text file)
+public unit(String type)
 {
+if(type.equals()){
+}
 use text file to construct unit
 }
 
