@@ -1,10 +1,11 @@
 fields:
-
+int health;
 constructors:
 
-public building(text file)
+public building(String type)
+if(type == )
 {
-use text file to construct building
+use text file to construct building image
 }
 
 methods:
