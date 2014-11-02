@@ -1,16 +1,26 @@
 fields:
-int health;
-int attack;
-int range;
-int mobility;
+public int health;
+public int attack;
+public int range;
+public int mobility;
+public Vector2 loc;
 
 constructors:
 
-public unit(String type)
+public unit(String type, Vector2 startLoc)
 {
-if(type.equals()){
+if(type.equals()){ use text file to construct unit//
 }
-use text file to construct unit
+loc = startLoc;
 }
 
 methods:
+private void move(int[][] finalLoc)
+{
+ if(canMove){
+ loc = finalLoc
+ }
+}
+public int[][] canMove(){
+}
+
