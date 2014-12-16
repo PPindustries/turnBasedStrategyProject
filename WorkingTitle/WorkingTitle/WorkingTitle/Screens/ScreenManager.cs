@@ -18,11 +18,13 @@ namespace WorkingTitle.Screens
         Stack<GameScreen> screens = new Stack<GameScreen>();
         public SpriteBatch sb;
         public KeyBoardManager keyManager;
+        public MouseManager mouse;
 
         public ScreenManager(Game g) : base(g)
         {
             sb = Game.Services.GetService(typeof (SpriteBatch)) as SpriteBatch;
             keyManager = new KeyBoardManager(g);
+            mouse = new MouseManager(g);
         }
 
         public void AddScreen(GameScreen screen)
