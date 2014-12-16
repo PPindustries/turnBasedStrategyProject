@@ -6,6 +6,13 @@ using Microsoft.Xna.Framework;
 
 namespace WorkingTitle.Screens
 {
+    /*
+     * GameScreen is the base class for all screens
+     * each component needs to be overwritten for a screen to work well
+     * not drawable,needs to draw through ScreenMananger
+     * 
+     **/
+
     class GameScreen : GameComponent
     {
         public ScreenManager manager;

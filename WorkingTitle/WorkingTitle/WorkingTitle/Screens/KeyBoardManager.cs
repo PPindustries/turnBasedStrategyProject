@@ -7,6 +7,10 @@ using Microsoft.Xna.Framework.Input;
 
 namespace WorkingTitle.Screens.TechnicalScreens
 {
+    /*
+     * KeyBoardManager manages the inputs of the keyboard and relays them to ScreenManager
+    **/
+
     class KeyBoardManager : GameComponent
     {
         private KeyboardState previous;

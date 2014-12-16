@@ -8,6 +8,11 @@ using WorkingTitle.Screens.TechnicalScreens;
 
 namespace WorkingTitle.Screens
 {
+    /*
+     * ScreenManager controls all the screens and drawing
+     * 
+     **/
+
     class ScreenManager : DrawableGameComponent
     {
         Stack<GameScreen> screens = new Stack<GameScreen>();
