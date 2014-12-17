@@ -1,0 +1,22 @@
+figthing engine
+
+building engine
+
+build building based on your resources
+when building is constructed automatically works
+can be rased in fighting
+
+turn based
+
+battles take place in between building turns
+
+walls exist between grid spaces
+
+map showing entire world with ai' and enemy bases and mountains,
+-each base takes up 1 space on this map
+
+set in apocalyptic future
+
+options to build whatever you want- limited by resources
+
+victory- destroy opponent(s)
