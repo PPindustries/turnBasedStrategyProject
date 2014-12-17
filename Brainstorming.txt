@@ -19,4 +19,4 @@ set in apocalyptic future
 
 options to build whatever you want- limited by resources
 
-victory- destroy opponent(s)
+victory- destroy opponent(s) before turns run out
