@@ -6,5 +6,12 @@ C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\
 C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\WorkingTitle.pdb
 C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.exe
 C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.pdb
+<<<<<<< HEAD
 C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\cursor.xnb
 C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\Doodlebob.xnb
+=======
+C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\WorkingTitle.exe
+C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\WorkingTitle.pdb
+C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.exe
+C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.pdb
+>>>>>>> origin/master

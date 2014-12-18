@@ -87,8 +87,7 @@ namespace WorkingTitle
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            GraphicsDevice.Clear(Color.Blue);
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
