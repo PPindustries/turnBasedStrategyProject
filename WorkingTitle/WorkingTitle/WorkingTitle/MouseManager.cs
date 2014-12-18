@@ -5,7 +5,7 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace WorkingTitle.Screens
+namespace WorkingTitle
 {
     /* 
      * MouseManager manages the inputs of the mouse and relays them to ScreenManager
@@ -17,10 +17,11 @@ namespace WorkingTitle.Screens
         private MouseState previous;
         private MouseState current;
 
-        public MouseManager(Game game) : base(game)
+        public MouseManager(Game game)
+            : base(game)
         {
             previous = Mouse.GetState();
-            Game.Services.AddService(typeof(MouseManager),this);
+            Game.Services.AddService(typeof(MouseManager), this);
             Game.Components.Add(this);
         }
 
