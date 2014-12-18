@@ -8,16 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\cursor.xnb</Output>
-      <Time>2014-12-17T18:14:09.1332128-08:00</Time>
-    </Item>
-    <Item>
-      <Source>Doodlebob.png</Source>
-      <Name>Doodlebob</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\Doodlebob.xnb</Output>
-      <Time>2014-12-17T18:20:27.9098776-08:00</Time>
+      <Time>2014-12-17T18:34:08.2127962-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +16,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitleContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitleContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -57,7 +48,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-09-13T16:05:00.80026-07:00</Value>
+        <Value>2013-09-13T08:57:56.6069814-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
