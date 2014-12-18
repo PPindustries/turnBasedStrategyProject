@@ -1,2 +1,0 @@
-C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.csprojResolveAssemblyReference.cache
-C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

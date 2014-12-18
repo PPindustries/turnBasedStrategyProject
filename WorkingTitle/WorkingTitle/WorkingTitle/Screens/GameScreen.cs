@@ -13,7 +13,6 @@ namespace WorkingTitle.Screens
      * 
      **/
 
-    //jb is stupid
     class GameScreen : GameComponent
     {
         public ScreenManager manager;
