@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace WorkingTitle.Screens
+namespace WorkingTitle
 {
     /*
      * GameScreen is the base class for all screens

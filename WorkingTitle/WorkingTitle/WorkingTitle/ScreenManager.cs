@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using WorkingTitle.Screens.TechnicalScreens;
 
-namespace WorkingTitle.Screens
+namespace WorkingTitle
 {
     /*
      * ScreenManager controls all the screens and drawing
