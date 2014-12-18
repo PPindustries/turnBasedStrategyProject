@@ -17,4 +17,13 @@ namespace WorkingTitle
         {
         }
     }
+
+    class Option : GameScreen
+    {
+        public Option(Game game): base(game)
+        {
+        }
+    }
+
+
 }
