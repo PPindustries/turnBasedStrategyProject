@@ -1,2 +1,8 @@
 C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.csprojResolveAssemblyReference.cache
 C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.csprojResolveAssemblyReference.cache
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\WorkingTitle.exe
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\WorkingTitle.pdb
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.exe
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.pdb

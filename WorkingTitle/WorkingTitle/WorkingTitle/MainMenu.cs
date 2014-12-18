@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Microsoft.Xna.Framework;
 
 namespace WorkingTitle
 {
@@ -12,5 +13,8 @@ namespace WorkingTitle
     class MainMenu: GameScreen
     {
 
+         public MainMenu(Game game) : base(game)
+        {
+        }
     }
 }
