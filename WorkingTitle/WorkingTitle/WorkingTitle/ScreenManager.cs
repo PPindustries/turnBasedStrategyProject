@@ -24,7 +24,10 @@ namespace WorkingTitle
         {
             sb = Game.Services.GetService(typeof (SpriteBatch)) as SpriteBatch;
             keyManager = new KeyBoardManager(g);
+            keyManager.manager = this;
             mouse = new MouseManager(g);
+            mouse.manager = this;
+            AddScreen(new MainMenu(g));
         }
 
         public void AddScreen(GameScreen screen)
@@ -41,12 +44,16 @@ namespace WorkingTitle
         public override void Draw(GameTime gameTime)
         {
             screens.Peek().Draw(gameTime);
+
+            mouse.Draw(gameTime);
             base.Draw(gameTime);
         }
 
         public override void Update(GameTime gameTime)
         {
             screens.Peek().Update(gameTime);
+
+
             base.Update(gameTime);
         }
 

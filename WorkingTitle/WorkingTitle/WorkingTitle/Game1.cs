@@ -19,6 +19,8 @@ namespace WorkingTitle
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        private ScreenManager manager;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -46,7 +48,11 @@ namespace WorkingTitle
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            Services.AddService(typeof(SpriteBatch), spriteBatch);
 
+            manager = new ScreenManager(this);
+
+            Components.Add(manager);
             // TODO: use this.Content to load your game content here
         }
 

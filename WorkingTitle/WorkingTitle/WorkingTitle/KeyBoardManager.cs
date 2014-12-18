@@ -15,6 +15,7 @@ namespace WorkingTitle.Screens.TechnicalScreens
     {
         private KeyboardState previous;
         private KeyboardState current;
+        public ScreenManager manager;
 
         public KeyBoardManager(Game game) : base(game)
         {
