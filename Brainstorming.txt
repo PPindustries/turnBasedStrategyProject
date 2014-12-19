@@ -20,3 +20,6 @@ set in apocalyptic future
 options to build whatever you want- limited by resources
 
 victory- destroy opponent(s) before turns run out
+
+
+I think we might be able to use folders in XNA if we then create the class inside the folder. Lets try this out when we are together sometime.
