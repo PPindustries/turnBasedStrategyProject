@@ -15,3 +15,5 @@ C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\Working
 C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.exe
 C:\Users\Will\Desktop\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\obj\x86\Debug\WorkingTitle.pdb
 >>>>>>> origin/master
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\MenuBackground.xnb
+C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\MenuFont.xnb

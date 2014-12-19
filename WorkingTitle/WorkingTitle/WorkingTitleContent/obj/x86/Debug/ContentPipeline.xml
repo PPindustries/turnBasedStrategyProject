@@ -10,6 +10,24 @@
       <Output>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\cursor.xnb</Output>
       <Time>2014-12-17T18:34:08.2127962-08:00</Time>
     </Item>
+    <Item>
+      <Source>MenuBackground.png</Source>
+      <Name>MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\MenuBackground.xnb</Output>
+      <Time>2014-12-18T18:44:27.4019355-08:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JB\Documents\GitHub\turnBasedStrategyProject\WorkingTitle\WorkingTitle\WorkingTitle\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2014-12-18T16:36:00.1250596-08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
