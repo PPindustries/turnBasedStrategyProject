@@ -22,7 +22,7 @@ namespace WorkingTitle
         {
             font = game.Content.Load<SpriteFont>("MenuFont");
             MenuBackground = game.Content.Load<Texture2D>("MenuBackground");
-            drawPosition = new Vector2(Game1.screenWidth/2, Game1.screenHeight*8/10);
+            drawPosition = new Vector2(Game1.screenWidth/2, Game1.screenHeight*2/10);
         }
 
          public override void Draw(GameTime gameTime)

@@ -28,11 +28,11 @@ namespace WorkingTitle
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
-            screenHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
-            screenWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+            screenHeight = Convert.ToInt32(GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height*.9);
+            screenWidth = Convert.ToInt32(GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width*.9);
 
-            graphics.PreferredBackBufferHeight = Convert.ToInt32(screenHeight*.9);
-            graphics.PreferredBackBufferWidth = Convert.ToInt32(screenWidth * .9);
+            graphics.PreferredBackBufferHeight = screenHeight;
+            graphics.PreferredBackBufferWidth = screenWidth;
         }
 
         /// <summary>
