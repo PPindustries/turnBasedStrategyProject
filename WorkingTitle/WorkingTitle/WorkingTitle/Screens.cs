@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
 
 namespace WorkingTitle
 {
@@ -18,7 +18,9 @@ namespace WorkingTitle
         private SpriteFont font;
         private Vector2 initialDraw;
         private Vector2 drawPosition;
+        private Vector2 outputOrigin;
         private readonly string[] CHOICES={"New Game","Load Game","Options","About","Exit"};
+        private drawnObjects[] arrObjects;
 
          public MainMenu(Game game) : base(game)
         {
@@ -27,6 +29,15 @@ namespace WorkingTitle
             initialDraw = new Vector2(Game1.screenWidth/2, Game1.screenHeight*2/10);
         }
 
+        class drawnObjects
+        {
+            string words;
+            Vector2 drawPosition;
+            Vector2 outputOrigin;
+        }
+
+
+        //draws the background
          public override void Draw(GameTime gameTime)
          {
              drawPosition = initialDraw;
@@ -39,7 +50,7 @@ namespace WorkingTitle
 
              foreach(string output in CHOICES)
              {
-                 Vector2 outputOrigin = font.MeasureString(output) / 2;
+                 outputOrigin = font.MeasureString(output) / 2;
                  manager.sb.DrawString(font, output, drawPosition, Color.Black,
                      0, outputOrigin, 1.0f, SpriteEffects.None, 0.5f);
                  drawPosition.Y += outputOrigin.Y * 2;
@@ -49,6 +60,14 @@ namespace WorkingTitle
              manager.sb.End();
 
              base.Draw(gameTime);
+         }
+
+
+         public override void Update(GameTime gameTime)
+         {
+             
+             
+             base.Update(gameTime);
          }
 
        
